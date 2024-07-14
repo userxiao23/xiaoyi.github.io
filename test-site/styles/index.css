@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Noto';
+    src: url('font/Noto-Sans.ttf');
+}
+html{
+    background-color: rgb(0,83,159);
+}
+body{
+    background-color: rgb(255,149,0);
+    width: 80%;
+    margin: 0 auto;
+    border: 10px solid black;
+    padding: 0px 0px 50px 0px ;
+}
+h1{
+    font-family: 'Noto';
+    font-size: 200px;
+    text-align: center;
+    color:  rgb(0,83,159);
+    text-shadow: 8px 8px 1px black;
+    font-weight: 500;
+    letter-spacing: 2px;
+    
+}
+main img{
+   
+    width: 800px;
+    height: 800px;
+    
+}
+main{
+    text-align: center;
+}
+main article{
+    text-align: left;
+    font-family: 'Noto';
+    font-size: 70px;
+    padding: 0 50px;
+    line-height: 130px;
+}
+
+main article ul{
+    padding: 0 200px;
+}
+
+button{
+    width: 400px;
+    height: 100px;
+    font-size: 70px;
+}
